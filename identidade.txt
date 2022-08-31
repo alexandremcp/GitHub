@@ -1,2 +1,4 @@
 Nome: João
 CPF: 959.645.874-4
+Idade: 19
+Altura: 1.79m
